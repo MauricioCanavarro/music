@@ -1,0 +1,7 @@
+Esse template foi criado a partir do PSD obtido em https://www.freepik.com/free-psd/banner-template-summer-festival_4588951.htm#page=1&query=music&position=0
+
+Também incluí um submenu dropdown para mostrar essa funcionalidade em ação.
+
+Ele ainda não está usando o PHP para fazer o encapsulamento, mas obviamente o sei fazê-lo. Também não usei Sass.
+
+Template responsivo feito do zero.
